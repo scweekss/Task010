@@ -1,2 +1,2 @@
 # Task010
-sdgahjdjdudidjn
+Задача номер 10
